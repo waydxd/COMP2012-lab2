@@ -1,0 +1,39 @@
+==================================
+Science Category:
+Principia Mathematica (Isaac Newton, 1687)
+The Computer and the Brain (John von Neumann, 1958)
+==================================
+Humanities Category:
+The Success and Failure of Picasso (John Berger, 1989)
+==================================
+Misc. Category:
+Recipes From a 3 Star Chef (Gordon Ramsay, 2007)
+
+==================================
+Science Category:
+Principia Mathematica (Isaac Newton, 1687)
+The Computer and the Brain (John von Neumann, 1958)
+Mastering C++ in 3 Months (Desmond Tsoi, 2031)
+==================================
+Humanities Category:
+The Success and Failure of Picasso (John Berger, 1989)
+Bach and Mozart: Essays on the Enigma of Genius (Robert L. Marshall, 2019)
+==================================
+Misc. Category:
+Recipes From a 3 Star Chef (Gordon Ramsay, 2007)
+
+Bookcase is full, cannot add Introduction to quantum mechanics, 3rd edition!
+==================================
+Science Category:
+Principia Mathematica (Isaac Newton, 1687)
+The Computer and the Brain (John von Neumann, 1958)
+Mastering C++ in 3 Months (Desmond Tsoi, 2031)
+==================================
+Humanities Category:
+The Success and Failure of Picasso (John Berger, 1989)
+Bach and Mozart: Essays on the Enigma of Genius (Robert L. Marshall, 2019)
+==================================
+Misc. Category:
+Recipes From a 3 Star Chef (Gordon Ramsay, 2007)
+Diary of a Wimpy Kid: Big Shot (Jeff Kinney, 2021)
+
